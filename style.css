@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 about;
+    max-width: 1440px;
+    width: 96%;
+}
+
+/* header area start */
+.header-area{
+    background-color: white;
+}
+
+.header{
+    display: flex;
+    height: 130px;
+    justify-content: space-between;
+    align-items: center;
+}
+.header ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+.header ul li a{
+    text-decoration: none;
+}
+
+/* Header area end */
+
+.banner-area{
+    position: relative;
+    background-image: url(images/banner.png);
+    background-size: cover;
+    height: 616px;
+    width: 100%;
+}
+
+.banner-text{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    align-items: center;
+}
+
+.banner-text button{
+    background-color: aqua;
+
+}
+
+/* banner area end */
+
+/* samanta area start */
+
+
+.samanta-area{
+    background-color: #fff;
+
+}
+.samanta{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 70px;
+}
+
+.samanta_text{
+    padding: opx 100px 0px 40px;
+
+}
+
+h2{
+    padding-top: 30px;
+
+}
+
+.samanta_text p{
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+/* samanta area end */
+
+/* from area start */
+
+.want-area{
+    background-color: #DFE8E6;
+    width: 1440px;
+    height: 927px;
+
+}
+.want{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+/* from area end */
+
+.services-area{
+    background-color: white;
+    width: 1440px;
+    height: 900px;
+
+}
+
+.services{
+    text-align: center;
+
+}
+
+.image{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.find{
+    text-align: center;
+
+}
+
+.philosophy-area{
+    width: 1440px;
+    height: 734px;
+    display: flex;
+    background-color: #DFE8E6;
+}
+
+.philosophy{
+    margin-top: 70px;
+}
+
+.philosophy h1{
+    text-align: center;
+
+}
+
+.philosophy p{
+    text-align: center;
+    margin-top: 70px;
+}
+
+.man{
+    display: flex;
+
+}
+
+.man-text{
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+.header-area{
+    text-decoration: none;
+}
+
+.banner-area{
+    position: relative;
+    background-color: url(img/Rectangle\ 27.png);
+    background-size: cover;
+    height: 616px;
+}
+
+.banner-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    align-items: center;
+}
+
+
+.principal{
+    display: flex;
+    margin-top: 40px;
+}
+
+.principal-img{
+   margin-right: 40px; 
+   margin-left: 90px;
+}
+
+.nusrat{
+    background-color: aqua;
+    width: 419px;
+    height: 86px;
+    top: 4101px;
+    left: 710px;
+    align-items: center;
+}
